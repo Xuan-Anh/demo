@@ -14,5 +14,5 @@ while i <= max1 :
     else:
         mylist.append(dic[i]['id']) 
     i+=1
-
+############
 print(dic)
